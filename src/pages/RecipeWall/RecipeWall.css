@@ -1,0 +1,10 @@
+.recipe_wall{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 8px;
+    grid-auto-rows: minmax(250px, auto);
+    max-width: 100%;
+    overflow: auto;
+    padding: 4rem;
+
+}

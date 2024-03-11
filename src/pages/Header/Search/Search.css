@@ -1,0 +1,20 @@
+.searchField{
+    height: 2.5rem;
+    width: 30rem;
+    display: flex;
+    flex-direction: row;
+
+}
+.search-logo{
+    height: 2.5rem;
+    width: 3rem;
+}
+.autocomplete-component{
+    height: 2.5rem !important;
+    padding: 0;
+}
+.MuiOutlinedInput-root{
+    height: 2.5rem !important;
+    width: 27rem !important;
+    padding: 0%;
+}

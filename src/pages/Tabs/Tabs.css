@@ -1,0 +1,7 @@
+.tab-container{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    justify-content: center;
+}
